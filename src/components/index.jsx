@@ -1,4 +1,5 @@
+import About from './About';
 import Home from './Home';
-import Pagination from './Pagination';
+import Navbar from './Navbar';
 
-export { Home, Pagination };
+export { Home, Navbar, About };

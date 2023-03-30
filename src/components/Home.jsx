@@ -5,12 +5,14 @@ const Home = () => {
     <main>
       <div className='home-content'>
         <h1 className='home-title'>
-          Unparalleled personalized outreach and optimized customer engagement
+          AdsFuel Market is an online platform for advertising campaigns on the
+          Internet.
         </h1>
         <p className='home-text'>
-          Experience the power of Salient - the AI-powered sales platform that
-          maximizes outbound volume and engagement, creates effortless sales and
-          forges lasting connections with your customers.
+          For AdsFuel Market, helping our customers and partners succeed is
+          extremely important. Our passionate and experienced team successfully
+          implements ideas and strategies. Before launching each advertising
+          campaign, we will understand the task at hand in detail!
         </p>
         <button type='button' className='btn home-btn'>
           Get Access
@@ -18,7 +20,7 @@ const Home = () => {
         <br />
         <br />
         <div className='container'>
-          <img src={hero} alt='main img' className='img' />
+          <img src={hero} alt='main img' className='img home-img' />
         </div>
       </div>
     </main>
