@@ -1,4 +1,12 @@
-import { About, Home, Navbar } from './components';
+import {
+  About,
+  Home,
+  Navbar,
+  Sales,
+  Person,
+  Access,
+  Footer,
+} from './components';
 
 function App() {
   return (
@@ -6,6 +14,10 @@ function App() {
       <Navbar />
       <Home />
       <About />
+      <Sales />
+      <Person />
+      <Access />
+      <Footer />
     </>
   );
 }
