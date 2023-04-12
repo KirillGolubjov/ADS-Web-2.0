@@ -28,7 +28,7 @@ const About = () => {
               <a>3x Outbound Sales</a>
             </div>
             <div className='parallel-block-2'>
-              <a>2x Engagement Rate</a>
+              <a>2x Engagement Rate!</a>
             </div>
           </div>
 
